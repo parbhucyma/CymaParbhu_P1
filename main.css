@@ -1,0 +1,213 @@
+a:link { 
+    text-decoration: none;
+    color: black;
+}
+
+a:visited { 
+    color: black;
+} 
+
+a:hover { 
+    color: #663B26;
+}
+
+h1{
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-size: 50px;
+}
+
+.mainWrapper{
+    min-height: 100px;
+    width: 100%;
+    background-color: white;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.img-responsive-header{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.headers{
+    min-height: 100px;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-size: 20px;
+    vertical-align: middle;
+    display: block;
+    text-align: center;
+}
+
+.borders{
+    border: 2px white;
+}
+
+.logo img{
+    min-height: 50px;
+    align-content: center;
+}
+
+.navbar-inverse{
+    font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif; black;
+    width: 100%;
+    margin: 0 auto; 
+    max-height: 250px;
+    background-color: white;
+    position:relative;
+    font-size:55px;
+    border-top: solid #663B26;
+    border-bottom: solid #663B26;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
+
+ul.nav a:hover { 
+    color: #663B26 !important; 
+}
+
+body {
+    position: relative;
+}
+
+.page-header {
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-family: 'Fauna One', serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.carousel{
+    height: auto;
+}
+
+.container-fluid {
+    width: 100%;
+    height: 100%;
+    background: url(Map_Contact.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.modal.in .modal-dialog {
+    transform: none;
+    color: #663B26;
+}
+
+.btn-primary{
+    background: #663B26;
+    border: none;
+    height: 80px;
+    width: 210px;    
+}
+
+.form-group{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.carousel-inner{
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100px;
+    max-height: 450px; 
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+.list{
+    font-size: 15px;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+.col-md-8{
+    text-align: justify;
+}
+
+.img-responsive-homescreen{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+}
+
+.img-responsive-phones{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+}
+
+.img-responsive-ipad{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+}
+
+.img-responsive-web{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+    border: solid #768585;
+}
+
+.img-responsive-social{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    justify-content: center;
+    border: solid #768585;
+}
+
+textarea{
+    width: 80%;
+}
+
+.btn-block{
+    background: #c4c466;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-size: 30px;
+}
+
+.thumbnail{
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    border-color: #c4c466;
+    border-width: 2px;
+}
+
+.img-responsive-logo{
+    max-width: 10%;
+    height: auto;
+    display: block;
+    align-content: left;
+}
+
+.img-responsive-footer{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    align-content: center;
+    margin: 0 auto;
+}
+
+footer{
+    display: block;
+    text-align: center;
+}
